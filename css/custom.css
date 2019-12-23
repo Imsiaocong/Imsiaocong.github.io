@@ -44,6 +44,9 @@ body{
 }
 
 /* Document */
+#document{
+    margin-bottom: 255px;
+}
 
 .passage{
     color: white;
@@ -75,7 +78,7 @@ body{
 
 .pages{
     position: fixed;
-    margin-top: 255px;
+    top: 255px;
     font-size: 0;
     font-family: vendor;
 }
